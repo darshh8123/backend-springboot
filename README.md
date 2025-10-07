@@ -1,4 +1,4 @@
-# Backend-springboot
+# Backend-springboot - Student management system
 
 Explored how to build a CRUD (Create, Read, Update, Delete) REST API using Spring Boot — one of the most powerful Java frameworks for developing enterprise-level web applications. Here are some key takeaways:
 
